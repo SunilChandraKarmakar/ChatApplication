@@ -4,14 +4,14 @@
     "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication\\ChatApplication.csproj": {}
   },
   "projects": {
-    "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication\\ChatApplication.csproj": {
+    "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Database\\ChatApplication.Database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication\\ChatApplication.csproj",
-        "projectName": "ChatApplication",
-        "projectPath": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication\\ChatApplication.csproj",
+        "projectUniqueName": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Database\\ChatApplication.Database.csproj",
+        "projectName": "ChatApplication.Database",
+        "projectPath": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Database\\ChatApplication.Database.csproj",
         "packagesPath": "C:\\Users\\Sunil\\.nuget\\packages\\",
-        "outputPath": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication\\obj\\",
+        "outputPath": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Database\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sunil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,7 +27,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Models\\ChatApplication.Models.csproj": {
+                "projectPath": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Models\\ChatApplication.Models.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -67,6 +71,312 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Manager\\ChatApplication.Manager.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Manager\\ChatApplication.Manager.csproj",
+        "projectName": "ChatApplication.Manager",
+        "projectPath": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Manager\\ChatApplication.Manager.csproj",
+        "packagesPath": "C:\\Users\\Sunil\\.nuget\\packages\\",
+        "outputPath": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Manager\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sunil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Repository\\ChatApplication.Repository.csproj": {
+                "projectPath": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Repository\\ChatApplication.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Models\\ChatApplication.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Models\\ChatApplication.Models.csproj",
+        "projectName": "ChatApplication.Models",
+        "projectPath": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Models\\ChatApplication.Models.csproj",
+        "packagesPath": "C:\\Users\\Sunil\\.nuget\\packages\\",
+        "outputPath": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sunil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Repository\\ChatApplication.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Repository\\ChatApplication.Repository.csproj",
+        "projectName": "ChatApplication.Repository",
+        "projectPath": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Repository\\ChatApplication.Repository.csproj",
+        "packagesPath": "C:\\Users\\Sunil\\.nuget\\packages\\",
+        "outputPath": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sunil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Database\\ChatApplication.Database.csproj": {
+                "projectPath": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Database\\ChatApplication.Database.csproj"
+              },
+              "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Models\\ChatApplication.Models.csproj": {
+                "projectPath": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Models\\ChatApplication.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication\\ChatApplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication\\ChatApplication.csproj",
+        "projectName": "ChatApplication",
+        "projectPath": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication\\ChatApplication.csproj",
+        "packagesPath": "C:\\Users\\Sunil\\.nuget\\packages\\",
+        "outputPath": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sunil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Manager\\ChatApplication.Manager.csproj": {
+                "projectPath": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Manager\\ChatApplication.Manager.csproj"
+              },
+              "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Models\\ChatApplication.Models.csproj": {
+                "projectPath": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Models\\ChatApplication.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
             }
           },
           "imports": [

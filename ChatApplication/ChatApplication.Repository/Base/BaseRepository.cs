@@ -27,16 +27,20 @@ namespace ChatApplication.Repository.Base
             return await _db.Set<T>().FindAsync(id);
         }
 
-        public virtual async Task<bool> Create(T entity)
+        public virtual async Task<T> Create(T entity)
         {
             _db.Set<T>().Add(entity);
-            return await _db.SaveChangesAsync() > 0;
+            bool isCreate = await _db.SaveChangesAsync() > 0;
+            
+            return entity;
         }                  
 
-        public virtual async Task<bool> Update(T entity)
+        public virtual async Task<T> Update(T entity)
         {
             _db.Entry(entity).State = EntityState.Modified;
-            return await _db.SaveChangesAsync() > 0;
+            bool isUpdate = await _db.SaveChangesAsync() > 0;
+
+            return entity;
         }
 
         public virtual async Task<bool> Remove(T entity)

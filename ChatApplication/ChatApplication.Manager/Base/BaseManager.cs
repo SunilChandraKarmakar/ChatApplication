@@ -26,12 +26,12 @@ namespace ChatApplication.Manager.Base
             return await _baseRepository.GetById(id);
         }
 
-        public virtual async Task<bool> Create(T entity)
+        public virtual async Task<T> Create(T entity)
         {
             return await _baseRepository.Create(entity);
         }
 
-        public virtual async Task<bool> Update(T entity)
+        public virtual async Task<T> Update(T entity)
         {
             return await _baseRepository.Update(entity);
         }

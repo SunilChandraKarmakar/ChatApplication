@@ -9,8 +9,8 @@ namespace ChatApplication.Manager.Contract
     {
         Task<ICollection<T>> GetAll();
         Task<T> GetById(int? id);
-        Task<bool> Create(T entity);
-        Task<bool> Update(T entity);
+        Task<T> Create(T entity);
+        Task<T> Update(T entity);
         Task<bool> Remove(T entity);
     }
 }
