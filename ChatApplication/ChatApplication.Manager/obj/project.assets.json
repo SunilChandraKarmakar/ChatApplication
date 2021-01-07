@@ -2,16 +2,7 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "Humanizer.Core/2.8.26": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard2.0/_._": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/Humanizer.dll": {}
-        }
-      },
-      "Microsoft.CSharp/4.7.0": {
+      "Microsoft.CSharp/4.5.0": {
         "type": "package",
         "compile": {
           "ref/netcoreapp2.0/_._": {}
@@ -125,23 +116,6 @@
           "lib/netstandard2.0/_._": {}
         }
       },
-      "Microsoft.EntityFrameworkCore.Design/5.0.1": {
-        "type": "package",
-        "dependencies": {
-          "Humanizer.Core": "2.8.26",
-          "Microsoft.CSharp": "4.7.0",
-          "Microsoft.EntityFrameworkCore.Relational": "5.0.1"
-        },
-        "compile": {
-          "lib/netstandard2.1/_._": {}
-        },
-        "runtime": {
-          "lib/netstandard2.1/Microsoft.EntityFrameworkCore.Design.dll": {}
-        },
-        "build": {
-          "build/netcoreapp3.0/Microsoft.EntityFrameworkCore.Design.props": {}
-        }
-      },
       "Microsoft.EntityFrameworkCore.InMemory/5.0.1": {
         "type": "package",
         "dependencies": {
@@ -178,18 +152,6 @@
         },
         "runtime": {
           "lib/netstandard2.1/Microsoft.EntityFrameworkCore.SqlServer.dll": {}
-        }
-      },
-      "Microsoft.EntityFrameworkCore.Tools/5.0.1": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.Design": "5.0.1"
-        },
-        "compile": {
-          "lib/netstandard2.1/_._": {}
-        },
-        "runtime": {
-          "lib/netstandard2.1/_._": {}
         }
       },
       "Microsoft.Extensions.Caching.Abstractions/5.0.0": {
@@ -1559,30 +1521,32 @@
         "runtime": {
           "bin/placeholder/ChatApplication.Models.dll": {}
         }
+      },
+      "ChatApplication.Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "ChatApplication.Database": "1.0.0",
+          "ChatApplication.Models": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "5.0.1",
+          "Microsoft.EntityFrameworkCore.InMemory": "5.0.1",
+          "Microsoft.EntityFrameworkCore.Relational": "5.0.1",
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.1"
+        },
+        "compile": {
+          "bin/placeholder/ChatApplication.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ChatApplication.Repository.dll": {}
+        }
       }
     }
   },
   "libraries": {
-    "Humanizer.Core/2.8.26": {
-      "sha512": "OiKusGL20vby4uDEswj2IgkdchC1yQ6rwbIkZDVBPIR6al2b7n3pC91elBul9q33KaBgRKhbZH3+2Ur4fnWx2A==",
+    "Microsoft.CSharp/4.5.0": {
+      "sha512": "kaj6Wb4qoMuH3HySFJhxwQfe8R/sJsNJnANrvv8WdFPMoNbKY5htfNscv+LHCu5ipz+49m2e+WQXpLXr9XYemQ==",
       "type": "package",
-      "path": "humanizer.core/2.8.26",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "humanizer.core.2.8.26.nupkg.sha512",
-        "humanizer.core.nuspec",
-        "lib/netstandard1.0/Humanizer.dll",
-        "lib/netstandard1.0/Humanizer.xml",
-        "lib/netstandard2.0/Humanizer.dll",
-        "lib/netstandard2.0/Humanizer.xml",
-        "logo.png"
-      ]
-    },
-    "Microsoft.CSharp/4.7.0": {
-      "sha512": "pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
-      "type": "package",
-      "path": "microsoft.csharp/4.7.0",
+      "path": "microsoft.csharp/4.5.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1595,7 +1559,6 @@
         "lib/netcoreapp2.0/_._",
         "lib/netstandard1.3/Microsoft.CSharp.dll",
         "lib/netstandard2.0/Microsoft.CSharp.dll",
-        "lib/netstandard2.0/Microsoft.CSharp.xml",
         "lib/portable-net45+win8+wp8+wpa81/_._",
         "lib/uap10.0.16299/_._",
         "lib/win8/_._",
@@ -1605,7 +1568,7 @@
         "lib/xamarinmac20/_._",
         "lib/xamarintvos10/_._",
         "lib/xamarinwatchos10/_._",
-        "microsoft.csharp.4.7.0.nupkg.sha512",
+        "microsoft.csharp.4.5.0.nupkg.sha512",
         "microsoft.csharp.nuspec",
         "ref/MonoAndroid10/_._",
         "ref/MonoTouch10/_._",
@@ -1771,21 +1734,6 @@
         "microsoft.entityframeworkcore.analyzers.nuspec"
       ]
     },
-    "Microsoft.EntityFrameworkCore.Design/5.0.1": {
-      "sha512": "+/dbnLFwIkjZMPl4cGUCBVL6pS9ZAJYrW6Bm/n0TlKWKiwZmd0f1b7XCeji4BPMHbvZl/CryTVQ2Ox4au7AKEw==",
-      "type": "package",
-      "path": "microsoft.entityframeworkcore.design/5.0.1",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "Icon.png",
-        "build/netcoreapp3.0/Microsoft.EntityFrameworkCore.Design.props",
-        "lib/netstandard2.1/Microsoft.EntityFrameworkCore.Design.dll",
-        "lib/netstandard2.1/Microsoft.EntityFrameworkCore.Design.xml",
-        "microsoft.entityframeworkcore.design.5.0.1.nupkg.sha512",
-        "microsoft.entityframeworkcore.design.nuspec"
-      ]
-    },
     "Microsoft.EntityFrameworkCore.InMemory/5.0.1": {
       "sha512": "k04XjVxDLO0aeXbnjvUaSZssVyBYWnjvhU4zhnvCDMF+pXkTsa/PRgeOMsS6I8lyT6DQtH0WYqPFtCLh2E8gFQ==",
       "type": "package",
@@ -1826,30 +1774,6 @@
         "lib/netstandard2.1/Microsoft.EntityFrameworkCore.SqlServer.xml",
         "microsoft.entityframeworkcore.sqlserver.5.0.1.nupkg.sha512",
         "microsoft.entityframeworkcore.sqlserver.nuspec"
-      ]
-    },
-    "Microsoft.EntityFrameworkCore.Tools/5.0.1": {
-      "sha512": "aWC8uiAHkuZzOOxQwqzUyqRMGCCcqjthIUsJVn9I601UkVhxmHwvB/oARO1xb0GBaCfJuCJglo2wkehBjegwRQ==",
-      "type": "package",
-      "path": "microsoft.entityframeworkcore.tools/5.0.1",
-      "hasTools": true,
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "Icon.png",
-        "lib/netstandard2.1/_._",
-        "microsoft.entityframeworkcore.tools.5.0.1.nupkg.sha512",
-        "microsoft.entityframeworkcore.tools.nuspec",
-        "tools/EntityFrameworkCore.PS2.psd1",
-        "tools/EntityFrameworkCore.PS2.psm1",
-        "tools/EntityFrameworkCore.psd1",
-        "tools/EntityFrameworkCore.psm1",
-        "tools/about_EntityFrameworkCore.help.txt",
-        "tools/init.ps1",
-        "tools/net461/any/ef.exe",
-        "tools/net461/win-x86/ef.exe",
-        "tools/netcoreapp2.0/any/ef.dll",
-        "tools/netcoreapp2.0/any/ef.runtimeconfig.json"
       ]
     },
     "Microsoft.Extensions.Caching.Abstractions/5.0.0": {
@@ -5851,18 +5775,16 @@
       "type": "project",
       "path": "../ChatApplication.Models/ChatApplication.Models.csproj",
       "msbuildProject": "../ChatApplication.Models/ChatApplication.Models.csproj"
+    },
+    "ChatApplication.Repository/1.0.0": {
+      "type": "project",
+      "path": "../ChatApplication.Repository/ChatApplication.Repository.csproj",
+      "msbuildProject": "../ChatApplication.Repository/ChatApplication.Repository.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "ChatApplication.Database >= 1.0.0",
-      "ChatApplication.Models >= 1.0.0",
-      "Microsoft.EntityFrameworkCore >= 5.0.1",
-      "Microsoft.EntityFrameworkCore.Design >= 5.0.1",
-      "Microsoft.EntityFrameworkCore.InMemory >= 5.0.1",
-      "Microsoft.EntityFrameworkCore.Relational >= 5.0.1",
-      "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.1",
-      "Microsoft.EntityFrameworkCore.Tools >= 5.0.1"
+      "ChatApplication.Repository >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -5871,11 +5793,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Repository\\ChatApplication.Repository.csproj",
-      "projectName": "ChatApplication.Repository",
-      "projectPath": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Repository\\ChatApplication.Repository.csproj",
+      "projectUniqueName": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Manager\\ChatApplication.Manager.csproj",
+      "projectName": "ChatApplication.Manager",
+      "projectPath": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Manager\\ChatApplication.Manager.csproj",
       "packagesPath": "C:\\Users\\Sunil\\.nuget\\packages\\",
-      "outputPath": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Repository\\obj\\",
+      "outputPath": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Manager\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sunil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5892,11 +5814,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Database\\ChatApplication.Database.csproj": {
-              "projectPath": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Database\\ChatApplication.Database.csproj"
-            },
-            "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Models\\ChatApplication.Models.csproj": {
-              "projectPath": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Models\\ChatApplication.Models.csproj"
+            "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Repository\\ChatApplication.Repository.csproj": {
+              "projectPath": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Repository\\ChatApplication.Repository.csproj"
             }
           }
         }
@@ -5910,36 +5829,6 @@
     "frameworks": {
       "netcoreapp3.1": {
         "targetAlias": "netcoreapp3.1",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore": {
-            "target": "Package",
-            "version": "[5.0.1, )"
-          },
-          "Microsoft.EntityFrameworkCore.Design": {
-            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-            "suppressParent": "All",
-            "target": "Package",
-            "version": "[5.0.1, )"
-          },
-          "Microsoft.EntityFrameworkCore.InMemory": {
-            "target": "Package",
-            "version": "[5.0.1, )"
-          },
-          "Microsoft.EntityFrameworkCore.Relational": {
-            "target": "Package",
-            "version": "[5.0.1, )"
-          },
-          "Microsoft.EntityFrameworkCore.SqlServer": {
-            "target": "Package",
-            "version": "[5.0.1, )"
-          },
-          "Microsoft.EntityFrameworkCore.Tools": {
-            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-            "suppressParent": "All",
-            "target": "Package",
-            "version": "[5.0.1, )"
-          }
-        },
         "imports": [
           "net461",
           "net462",

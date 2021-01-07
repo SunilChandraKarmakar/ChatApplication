@@ -1,0 +1,16 @@
+D:\C# - Work\ChatApplication\ChatApplication\ChatApplication.Manager\bin\Debug\netcoreapp3.1\ChatApplication.Manager.deps.json
+D:\C# - Work\ChatApplication\ChatApplication\ChatApplication.Manager\bin\Debug\netcoreapp3.1\ChatApplication.Manager.dll
+D:\C# - Work\ChatApplication\ChatApplication\ChatApplication.Manager\bin\Debug\netcoreapp3.1\ChatApplication.Manager.pdb
+D:\C# - Work\ChatApplication\ChatApplication\ChatApplication.Manager\bin\Debug\netcoreapp3.1\ChatApplication.Database.dll
+D:\C# - Work\ChatApplication\ChatApplication\ChatApplication.Manager\bin\Debug\netcoreapp3.1\ChatApplication.Models.dll
+D:\C# - Work\ChatApplication\ChatApplication\ChatApplication.Manager\bin\Debug\netcoreapp3.1\ChatApplication.Repository.dll
+D:\C# - Work\ChatApplication\ChatApplication\ChatApplication.Manager\bin\Debug\netcoreapp3.1\ChatApplication.Repository.pdb
+D:\C# - Work\ChatApplication\ChatApplication\ChatApplication.Manager\bin\Debug\netcoreapp3.1\ChatApplication.Database.pdb
+D:\C# - Work\ChatApplication\ChatApplication\ChatApplication.Manager\bin\Debug\netcoreapp3.1\ChatApplication.Models.pdb
+D:\C# - Work\ChatApplication\ChatApplication\ChatApplication.Manager\obj\Debug\netcoreapp3.1\ChatApplication.Manager.csprojAssemblyReference.cache
+D:\C# - Work\ChatApplication\ChatApplication\ChatApplication.Manager\obj\Debug\netcoreapp3.1\ChatApplication.Manager.AssemblyInfoInputs.cache
+D:\C# - Work\ChatApplication\ChatApplication\ChatApplication.Manager\obj\Debug\netcoreapp3.1\ChatApplication.Manager.AssemblyInfo.cs
+D:\C# - Work\ChatApplication\ChatApplication\ChatApplication.Manager\obj\Debug\netcoreapp3.1\ChatApplication.Manager.csproj.CoreCompileInputs.cache
+D:\C# - Work\ChatApplication\ChatApplication\ChatApplication.Manager\obj\Debug\netcoreapp3.1\ChatApplication.Manager.csproj.CopyComplete
+D:\C# - Work\ChatApplication\ChatApplication\ChatApplication.Manager\obj\Debug\netcoreapp3.1\ChatApplication.Manager.dll
+D:\C# - Work\ChatApplication\ChatApplication\ChatApplication.Manager\obj\Debug\netcoreapp3.1\ChatApplication.Manager.pdb
