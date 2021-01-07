@@ -1,0 +1,15 @@
+D:\C# - Work\ChatApplication\ChatApplication\ChatApplication.Database\bin\Debug\netcoreapp3.1\ChatApplication.Models.dll
+D:\C# - Work\ChatApplication\ChatApplication\ChatApplication.Database\obj\Debug\netcoreapp3.1\ChatApplication.Database.csprojAssemblyReference.cache
+D:\C# - Work\ChatApplication\ChatApplication\ChatApplication.Database\obj\Debug\netcoreapp3.1\ChatApplication.Database.AssemblyInfoInputs.cache
+D:\C# - Work\ChatApplication\ChatApplication\ChatApplication.Database\obj\Debug\netcoreapp3.1\ChatApplication.Database.AssemblyInfo.cs
+D:\C# - Work\ChatApplication\ChatApplication\ChatApplication.Database\bin\Debug\netcoreapp3.1\ChatApplication.Database.deps.json
+D:\C# - Work\ChatApplication\ChatApplication\ChatApplication.Database\bin\Debug\netcoreapp3.1\ChatApplication.Database.runtimeconfig.json
+D:\C# - Work\ChatApplication\ChatApplication\ChatApplication.Database\bin\Debug\netcoreapp3.1\ChatApplication.Database.runtimeconfig.dev.json
+D:\C# - Work\ChatApplication\ChatApplication\ChatApplication.Database\bin\Debug\netcoreapp3.1\ChatApplication.Database.dll
+D:\C# - Work\ChatApplication\ChatApplication\ChatApplication.Database\bin\Debug\netcoreapp3.1\ChatApplication.Database.pdb
+D:\C# - Work\ChatApplication\ChatApplication\ChatApplication.Database\bin\Debug\netcoreapp3.1\ChatApplication.Models.pdb
+D:\C# - Work\ChatApplication\ChatApplication\ChatApplication.Database\obj\Debug\netcoreapp3.1\ChatApplication.Database.csproj.CoreCompileInputs.cache
+D:\C# - Work\ChatApplication\ChatApplication\ChatApplication.Database\obj\Debug\netcoreapp3.1\ChatApplication.Database.csproj.CopyComplete
+D:\C# - Work\ChatApplication\ChatApplication\ChatApplication.Database\obj\Debug\netcoreapp3.1\ChatApplication.Database.dll
+D:\C# - Work\ChatApplication\ChatApplication\ChatApplication.Database\obj\Debug\netcoreapp3.1\ChatApplication.Database.pdb
+D:\C# - Work\ChatApplication\ChatApplication\ChatApplication.Database\obj\Debug\netcoreapp3.1\ChatApplication.Database.genruntimeconfig.cache
