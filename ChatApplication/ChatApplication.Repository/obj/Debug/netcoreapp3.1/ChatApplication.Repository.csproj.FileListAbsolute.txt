@@ -15,3 +15,20 @@ D:\C# - Work\ChatApplication\ChatApplication\ChatApplication.Repository\obj\Debu
 D:\C# - Work\ChatApplication\ChatApplication\ChatApplication.Repository\obj\Debug\netcoreapp3.1\ChatApplication.Repository.dll
 D:\C# - Work\ChatApplication\ChatApplication\ChatApplication.Repository\obj\Debug\netcoreapp3.1\ChatApplication.Repository.pdb
 D:\C# - Work\ChatApplication\ChatApplication\ChatApplication.Repository\obj\Debug\netcoreapp3.1\ChatApplication.Repository.genruntimeconfig.cache
+D:\Chat Application\ChatApplication\ChatApplication\ChatApplication.Repository\bin\Debug\netcoreapp3.1\ChatApplication.Repository.deps.json
+D:\Chat Application\ChatApplication\ChatApplication\ChatApplication.Repository\bin\Debug\netcoreapp3.1\ChatApplication.Repository.runtimeconfig.json
+D:\Chat Application\ChatApplication\ChatApplication\ChatApplication.Repository\bin\Debug\netcoreapp3.1\ChatApplication.Repository.runtimeconfig.dev.json
+D:\Chat Application\ChatApplication\ChatApplication\ChatApplication.Repository\bin\Debug\netcoreapp3.1\ChatApplication.Repository.dll
+D:\Chat Application\ChatApplication\ChatApplication\ChatApplication.Repository\bin\Debug\netcoreapp3.1\ChatApplication.Repository.pdb
+D:\Chat Application\ChatApplication\ChatApplication\ChatApplication.Repository\bin\Debug\netcoreapp3.1\ChatApplication.Database.dll
+D:\Chat Application\ChatApplication\ChatApplication\ChatApplication.Repository\bin\Debug\netcoreapp3.1\ChatApplication.Models.dll
+D:\Chat Application\ChatApplication\ChatApplication\ChatApplication.Repository\bin\Debug\netcoreapp3.1\ChatApplication.Database.pdb
+D:\Chat Application\ChatApplication\ChatApplication\ChatApplication.Repository\bin\Debug\netcoreapp3.1\ChatApplication.Models.pdb
+D:\Chat Application\ChatApplication\ChatApplication\ChatApplication.Repository\obj\Debug\netcoreapp3.1\ChatApplication.Repository.csprojAssemblyReference.cache
+D:\Chat Application\ChatApplication\ChatApplication\ChatApplication.Repository\obj\Debug\netcoreapp3.1\ChatApplication.Repository.AssemblyInfoInputs.cache
+D:\Chat Application\ChatApplication\ChatApplication\ChatApplication.Repository\obj\Debug\netcoreapp3.1\ChatApplication.Repository.AssemblyInfo.cs
+D:\Chat Application\ChatApplication\ChatApplication\ChatApplication.Repository\obj\Debug\netcoreapp3.1\ChatApplication.Repository.csproj.CoreCompileInputs.cache
+D:\Chat Application\ChatApplication\ChatApplication\ChatApplication.Repository\obj\Debug\netcoreapp3.1\ChatApplication.Repository.csproj.CopyComplete
+D:\Chat Application\ChatApplication\ChatApplication\ChatApplication.Repository\obj\Debug\netcoreapp3.1\ChatApplication.Repository.dll
+D:\Chat Application\ChatApplication\ChatApplication\ChatApplication.Repository\obj\Debug\netcoreapp3.1\ChatApplication.Repository.pdb
+D:\Chat Application\ChatApplication\ChatApplication\ChatApplication.Repository\obj\Debug\netcoreapp3.1\ChatApplication.Repository.genruntimeconfig.cache

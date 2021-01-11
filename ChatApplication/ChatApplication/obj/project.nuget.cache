@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xisMXTMCyDyp8wtybC+GlLFiKE/8uID4YgIydVjcokfyFQxpP7ZVinAYN3xyO/P8MEfmLrPv1fWK6kh9YH7+XQ==",
+  "dgSpecHash": "Mt+xL/U870FY/o9bgumo5mrqrBtdygr1ws7N34Y/Y1/1uDnvywTLboz7EmpPUg0PrpQatLlAFFEzCQCsfBVzsw==",
   "success": true,
-  "projectFilePath": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication\\ChatApplication.csproj",
+  "projectFilePath": "D:\\Chat Application\\ChatApplication\\ChatApplication\\ChatApplication\\ChatApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sunil\\.nuget\\packages\\automapper\\10.1.0\\automapper.10.1.0.nupkg.sha512",
     "C:\\Users\\Sunil\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",

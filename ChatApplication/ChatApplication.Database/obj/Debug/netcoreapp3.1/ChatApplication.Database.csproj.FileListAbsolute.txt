@@ -13,3 +13,18 @@ D:\C# - Work\ChatApplication\ChatApplication\ChatApplication.Database\obj\Debug\
 D:\C# - Work\ChatApplication\ChatApplication\ChatApplication.Database\obj\Debug\netcoreapp3.1\ChatApplication.Database.dll
 D:\C# - Work\ChatApplication\ChatApplication\ChatApplication.Database\obj\Debug\netcoreapp3.1\ChatApplication.Database.pdb
 D:\C# - Work\ChatApplication\ChatApplication\ChatApplication.Database\obj\Debug\netcoreapp3.1\ChatApplication.Database.genruntimeconfig.cache
+D:\Chat Application\ChatApplication\ChatApplication\ChatApplication.Database\bin\Debug\netcoreapp3.1\ChatApplication.Database.deps.json
+D:\Chat Application\ChatApplication\ChatApplication\ChatApplication.Database\bin\Debug\netcoreapp3.1\ChatApplication.Database.runtimeconfig.json
+D:\Chat Application\ChatApplication\ChatApplication\ChatApplication.Database\bin\Debug\netcoreapp3.1\ChatApplication.Database.runtimeconfig.dev.json
+D:\Chat Application\ChatApplication\ChatApplication\ChatApplication.Database\bin\Debug\netcoreapp3.1\ChatApplication.Database.dll
+D:\Chat Application\ChatApplication\ChatApplication\ChatApplication.Database\bin\Debug\netcoreapp3.1\ChatApplication.Database.pdb
+D:\Chat Application\ChatApplication\ChatApplication\ChatApplication.Database\bin\Debug\netcoreapp3.1\ChatApplication.Models.dll
+D:\Chat Application\ChatApplication\ChatApplication\ChatApplication.Database\bin\Debug\netcoreapp3.1\ChatApplication.Models.pdb
+D:\Chat Application\ChatApplication\ChatApplication\ChatApplication.Database\obj\Debug\netcoreapp3.1\ChatApplication.Database.csprojAssemblyReference.cache
+D:\Chat Application\ChatApplication\ChatApplication\ChatApplication.Database\obj\Debug\netcoreapp3.1\ChatApplication.Database.AssemblyInfoInputs.cache
+D:\Chat Application\ChatApplication\ChatApplication\ChatApplication.Database\obj\Debug\netcoreapp3.1\ChatApplication.Database.AssemblyInfo.cs
+D:\Chat Application\ChatApplication\ChatApplication\ChatApplication.Database\obj\Debug\netcoreapp3.1\ChatApplication.Database.csproj.CoreCompileInputs.cache
+D:\Chat Application\ChatApplication\ChatApplication\ChatApplication.Database\obj\Debug\netcoreapp3.1\ChatApplication.Database.csproj.CopyComplete
+D:\Chat Application\ChatApplication\ChatApplication\ChatApplication.Database\obj\Debug\netcoreapp3.1\ChatApplication.Database.dll
+D:\Chat Application\ChatApplication\ChatApplication\ChatApplication.Database\obj\Debug\netcoreapp3.1\ChatApplication.Database.pdb
+D:\Chat Application\ChatApplication\ChatApplication\ChatApplication.Database\obj\Debug\netcoreapp3.1\ChatApplication.Database.genruntimeconfig.cache

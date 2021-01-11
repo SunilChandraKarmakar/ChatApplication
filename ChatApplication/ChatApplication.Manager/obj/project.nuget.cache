@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sjKxccH/+jn4Ffep9B7rSpufhemI0SSbx+EA/KB92bSi3n6WUHM6R+U6p4TyQXdTFxCrX6WZRoTGIz+6OoONQw==",
+  "dgSpecHash": "+tmI38JTvpeEnEcQg/5yeRQIrMLt2XZBFmuf278nyr19CWuspegJTx8HqgjRZykrI6AyCijFbpOxJPCAJSYirg==",
   "success": true,
-  "projectFilePath": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Manager\\ChatApplication.Manager.csproj",
+  "projectFilePath": "D:\\Chat Application\\ChatApplication\\ChatApplication\\ChatApplication.Manager\\ChatApplication.Manager.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sunil\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Sunil\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GdZsGvMvKnkvhmdouMm8NpynO0aQVzhrv3WbiK4haGjHSuXZzU9afOMybMkClBvhP+Lyz34MYmfhYb7Z61LEKw==",
+  "dgSpecHash": "UCk37Q8r7gjS8MQDz6WjvH5D7h6eb1ZRUfhc485TU1fQzlknl62reTFTumLNs5q2VVUa0KnrsSe15fs4WeWicw==",
   "success": true,
-  "projectFilePath": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Models\\ChatApplication.Models.csproj",
+  "projectFilePath": "D:\\Chat Application\\ChatApplication\\ChatApplication\\ChatApplication.Models\\ChatApplication.Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

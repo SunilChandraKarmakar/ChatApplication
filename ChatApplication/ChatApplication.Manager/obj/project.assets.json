@@ -5793,11 +5793,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Manager\\ChatApplication.Manager.csproj",
+      "projectUniqueName": "D:\\Chat Application\\ChatApplication\\ChatApplication\\ChatApplication.Manager\\ChatApplication.Manager.csproj",
       "projectName": "ChatApplication.Manager",
-      "projectPath": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Manager\\ChatApplication.Manager.csproj",
+      "projectPath": "D:\\Chat Application\\ChatApplication\\ChatApplication\\ChatApplication.Manager\\ChatApplication.Manager.csproj",
       "packagesPath": "C:\\Users\\Sunil\\.nuget\\packages\\",
-      "outputPath": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Manager\\obj\\",
+      "outputPath": "D:\\Chat Application\\ChatApplication\\ChatApplication\\ChatApplication.Manager\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sunil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5814,8 +5814,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Repository\\ChatApplication.Repository.csproj": {
-              "projectPath": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Repository\\ChatApplication.Repository.csproj"
+            "D:\\Chat Application\\ChatApplication\\ChatApplication\\ChatApplication.Repository\\ChatApplication.Repository.csproj": {
+              "projectPath": "D:\\Chat Application\\ChatApplication\\ChatApplication\\ChatApplication.Repository\\ChatApplication.Repository.csproj"
             }
           }
         }

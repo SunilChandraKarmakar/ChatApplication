@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication\\ChatApplication.csproj": {}
+    "D:\\Chat Application\\ChatApplication\\ChatApplication\\ChatApplication\\ChatApplication.csproj": {}
   },
   "projects": {
-    "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Database\\ChatApplication.Database.csproj": {
+    "D:\\Chat Application\\ChatApplication\\ChatApplication\\ChatApplication.Database\\ChatApplication.Database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Database\\ChatApplication.Database.csproj",
+        "projectUniqueName": "D:\\Chat Application\\ChatApplication\\ChatApplication\\ChatApplication.Database\\ChatApplication.Database.csproj",
         "projectName": "ChatApplication.Database",
-        "projectPath": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Database\\ChatApplication.Database.csproj",
+        "projectPath": "D:\\Chat Application\\ChatApplication\\ChatApplication\\ChatApplication.Database\\ChatApplication.Database.csproj",
         "packagesPath": "C:\\Users\\Sunil\\.nuget\\packages\\",
-        "outputPath": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Database\\obj\\",
+        "outputPath": "D:\\Chat Application\\ChatApplication\\ChatApplication\\ChatApplication.Database\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sunil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Models\\ChatApplication.Models.csproj": {
-                "projectPath": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Models\\ChatApplication.Models.csproj"
+              "D:\\Chat Application\\ChatApplication\\ChatApplication\\ChatApplication.Models\\ChatApplication.Models.csproj": {
+                "projectPath": "D:\\Chat Application\\ChatApplication\\ChatApplication\\ChatApplication.Models\\ChatApplication.Models.csproj"
               }
             }
           }
@@ -92,14 +92,14 @@
         }
       }
     },
-    "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Manager\\ChatApplication.Manager.csproj": {
+    "D:\\Chat Application\\ChatApplication\\ChatApplication\\ChatApplication.Manager\\ChatApplication.Manager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Manager\\ChatApplication.Manager.csproj",
+        "projectUniqueName": "D:\\Chat Application\\ChatApplication\\ChatApplication\\ChatApplication.Manager\\ChatApplication.Manager.csproj",
         "projectName": "ChatApplication.Manager",
-        "projectPath": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Manager\\ChatApplication.Manager.csproj",
+        "projectPath": "D:\\Chat Application\\ChatApplication\\ChatApplication\\ChatApplication.Manager\\ChatApplication.Manager.csproj",
         "packagesPath": "C:\\Users\\Sunil\\.nuget\\packages\\",
-        "outputPath": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Manager\\obj\\",
+        "outputPath": "D:\\Chat Application\\ChatApplication\\ChatApplication\\ChatApplication.Manager\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sunil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -116,8 +116,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Repository\\ChatApplication.Repository.csproj": {
-                "projectPath": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Repository\\ChatApplication.Repository.csproj"
+              "D:\\Chat Application\\ChatApplication\\ChatApplication\\ChatApplication.Repository\\ChatApplication.Repository.csproj": {
+                "projectPath": "D:\\Chat Application\\ChatApplication\\ChatApplication\\ChatApplication.Repository\\ChatApplication.Repository.csproj"
               }
             }
           }
@@ -150,14 +150,14 @@
         }
       }
     },
-    "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Models\\ChatApplication.Models.csproj": {
+    "D:\\Chat Application\\ChatApplication\\ChatApplication\\ChatApplication.Models\\ChatApplication.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Models\\ChatApplication.Models.csproj",
+        "projectUniqueName": "D:\\Chat Application\\ChatApplication\\ChatApplication\\ChatApplication.Models\\ChatApplication.Models.csproj",
         "projectName": "ChatApplication.Models",
-        "projectPath": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Models\\ChatApplication.Models.csproj",
+        "projectPath": "D:\\Chat Application\\ChatApplication\\ChatApplication\\ChatApplication.Models\\ChatApplication.Models.csproj",
         "packagesPath": "C:\\Users\\Sunil\\.nuget\\packages\\",
-        "outputPath": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Models\\obj\\",
+        "outputPath": "D:\\Chat Application\\ChatApplication\\ChatApplication\\ChatApplication.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sunil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -204,14 +204,14 @@
         }
       }
     },
-    "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Repository\\ChatApplication.Repository.csproj": {
+    "D:\\Chat Application\\ChatApplication\\ChatApplication\\ChatApplication.Repository\\ChatApplication.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Repository\\ChatApplication.Repository.csproj",
+        "projectUniqueName": "D:\\Chat Application\\ChatApplication\\ChatApplication\\ChatApplication.Repository\\ChatApplication.Repository.csproj",
         "projectName": "ChatApplication.Repository",
-        "projectPath": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Repository\\ChatApplication.Repository.csproj",
+        "projectPath": "D:\\Chat Application\\ChatApplication\\ChatApplication\\ChatApplication.Repository\\ChatApplication.Repository.csproj",
         "packagesPath": "C:\\Users\\Sunil\\.nuget\\packages\\",
-        "outputPath": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Repository\\obj\\",
+        "outputPath": "D:\\Chat Application\\ChatApplication\\ChatApplication\\ChatApplication.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sunil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -228,11 +228,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Database\\ChatApplication.Database.csproj": {
-                "projectPath": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Database\\ChatApplication.Database.csproj"
+              "D:\\Chat Application\\ChatApplication\\ChatApplication\\ChatApplication.Database\\ChatApplication.Database.csproj": {
+                "projectPath": "D:\\Chat Application\\ChatApplication\\ChatApplication\\ChatApplication.Database\\ChatApplication.Database.csproj"
               },
-              "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Models\\ChatApplication.Models.csproj": {
-                "projectPath": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Models\\ChatApplication.Models.csproj"
+              "D:\\Chat Application\\ChatApplication\\ChatApplication\\ChatApplication.Models\\ChatApplication.Models.csproj": {
+                "projectPath": "D:\\Chat Application\\ChatApplication\\ChatApplication\\ChatApplication.Models\\ChatApplication.Models.csproj"
               }
             }
           }
@@ -295,14 +295,14 @@
         }
       }
     },
-    "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication\\ChatApplication.csproj": {
+    "D:\\Chat Application\\ChatApplication\\ChatApplication\\ChatApplication\\ChatApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication\\ChatApplication.csproj",
+        "projectUniqueName": "D:\\Chat Application\\ChatApplication\\ChatApplication\\ChatApplication\\ChatApplication.csproj",
         "projectName": "ChatApplication",
-        "projectPath": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication\\ChatApplication.csproj",
+        "projectPath": "D:\\Chat Application\\ChatApplication\\ChatApplication\\ChatApplication\\ChatApplication.csproj",
         "packagesPath": "C:\\Users\\Sunil\\.nuget\\packages\\",
-        "outputPath": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication\\obj\\",
+        "outputPath": "D:\\Chat Application\\ChatApplication\\ChatApplication\\ChatApplication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sunil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -319,11 +319,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Manager\\ChatApplication.Manager.csproj": {
-                "projectPath": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Manager\\ChatApplication.Manager.csproj"
+              "D:\\Chat Application\\ChatApplication\\ChatApplication\\ChatApplication.Manager\\ChatApplication.Manager.csproj": {
+                "projectPath": "D:\\Chat Application\\ChatApplication\\ChatApplication\\ChatApplication.Manager\\ChatApplication.Manager.csproj"
               },
-              "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Models\\ChatApplication.Models.csproj": {
-                "projectPath": "D:\\C# - Work\\ChatApplication\\ChatApplication\\ChatApplication.Models\\ChatApplication.Models.csproj"
+              "D:\\Chat Application\\ChatApplication\\ChatApplication\\ChatApplication.Models\\ChatApplication.Models.csproj": {
+                "projectPath": "D:\\Chat Application\\ChatApplication\\ChatApplication\\ChatApplication.Models\\ChatApplication.Models.csproj"
               }
             }
           }

@@ -14,3 +14,19 @@ D:\C# - Work\ChatApplication\ChatApplication\ChatApplication.Manager\obj\Debug\n
 D:\C# - Work\ChatApplication\ChatApplication\ChatApplication.Manager\obj\Debug\netcoreapp3.1\ChatApplication.Manager.csproj.CopyComplete
 D:\C# - Work\ChatApplication\ChatApplication\ChatApplication.Manager\obj\Debug\netcoreapp3.1\ChatApplication.Manager.dll
 D:\C# - Work\ChatApplication\ChatApplication\ChatApplication.Manager\obj\Debug\netcoreapp3.1\ChatApplication.Manager.pdb
+D:\Chat Application\ChatApplication\ChatApplication\ChatApplication.Manager\bin\Debug\netcoreapp3.1\ChatApplication.Manager.deps.json
+D:\Chat Application\ChatApplication\ChatApplication\ChatApplication.Manager\bin\Debug\netcoreapp3.1\ChatApplication.Manager.dll
+D:\Chat Application\ChatApplication\ChatApplication\ChatApplication.Manager\bin\Debug\netcoreapp3.1\ChatApplication.Manager.pdb
+D:\Chat Application\ChatApplication\ChatApplication\ChatApplication.Manager\bin\Debug\netcoreapp3.1\ChatApplication.Database.dll
+D:\Chat Application\ChatApplication\ChatApplication\ChatApplication.Manager\bin\Debug\netcoreapp3.1\ChatApplication.Models.dll
+D:\Chat Application\ChatApplication\ChatApplication\ChatApplication.Manager\bin\Debug\netcoreapp3.1\ChatApplication.Repository.dll
+D:\Chat Application\ChatApplication\ChatApplication\ChatApplication.Manager\bin\Debug\netcoreapp3.1\ChatApplication.Repository.pdb
+D:\Chat Application\ChatApplication\ChatApplication\ChatApplication.Manager\bin\Debug\netcoreapp3.1\ChatApplication.Database.pdb
+D:\Chat Application\ChatApplication\ChatApplication\ChatApplication.Manager\bin\Debug\netcoreapp3.1\ChatApplication.Models.pdb
+D:\Chat Application\ChatApplication\ChatApplication\ChatApplication.Manager\obj\Debug\netcoreapp3.1\ChatApplication.Manager.csprojAssemblyReference.cache
+D:\Chat Application\ChatApplication\ChatApplication\ChatApplication.Manager\obj\Debug\netcoreapp3.1\ChatApplication.Manager.AssemblyInfoInputs.cache
+D:\Chat Application\ChatApplication\ChatApplication\ChatApplication.Manager\obj\Debug\netcoreapp3.1\ChatApplication.Manager.AssemblyInfo.cs
+D:\Chat Application\ChatApplication\ChatApplication\ChatApplication.Manager\obj\Debug\netcoreapp3.1\ChatApplication.Manager.csproj.CoreCompileInputs.cache
+D:\Chat Application\ChatApplication\ChatApplication\ChatApplication.Manager\obj\Debug\netcoreapp3.1\ChatApplication.Manager.csproj.CopyComplete
+D:\Chat Application\ChatApplication\ChatApplication\ChatApplication.Manager\obj\Debug\netcoreapp3.1\ChatApplication.Manager.dll
+D:\Chat Application\ChatApplication\ChatApplication\ChatApplication.Manager\obj\Debug\netcoreapp3.1\ChatApplication.Manager.pdb
